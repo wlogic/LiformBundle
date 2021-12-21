@@ -15,7 +15,13 @@
     }
   },
   "require": {
-    "limenius/liform": "^0.17.0"
+    "limenius/liform": "dev-wl-bundle#7666d1eb58bcc8ae7e3d52b3125f8ebba1cf2925"
   },
-  "minimum-stability": "stable"
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/wlogic/Liform"
+    }
+  ],
+  "minimum-stability": "dev"
 }
