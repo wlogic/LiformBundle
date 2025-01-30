@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "limenius/liform": "dev-wl-bundle#49a9319af5a8a95d73808d8431d9bfa65bed7e4c"
+    "limenius/liform": "dev-wl-bundle#baebeba6562f5a9f96aa027956259e838794beda"
   },
   "repositories": [
     {
